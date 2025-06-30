@@ -37,6 +37,7 @@ namespace CollectionsMasterConsoleUI
 
             Console.WriteLine("---------REVERSE CUSTOM------------");
             ReverseArray(numbers);
+            NumberPrinter(numbers);
 
             Console.WriteLine("-------------------");
             
